@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/lx-doc-sit/',
+  base: '/lx-doc-site/',
   title: '理想文档',
   description: '定位于个人和小团队的在线云文档',
   themeConfig: {

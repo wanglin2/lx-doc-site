@@ -6,7 +6,7 @@ hero:
   name: "理想文档"
   text: "定位于个人和小团队的在线云文档"
   tagline: 思维导图、白板、流程图、文档、PPT、电子表格...
-  image: ./images/illustration.svg
+  image: ./illustration.svg
   actions:
     - theme: brand
       text: 详细了解

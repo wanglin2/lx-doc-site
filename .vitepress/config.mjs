@@ -5,7 +5,7 @@ export default defineConfig({
   base: '/lx-doc-site/',
   title: '理想文档',
   description: '定位于个人和小团队的在线云文档',
-  head: [['link', { rel: 'icon', href: '/logo.svg' }]],
+  head: [['link', { rel: 'icon', href: './logo.svg' }]],
   outDir: './docs',
   themeConfig: {
     logo: './logo.svg',

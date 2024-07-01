@@ -5,6 +5,8 @@ export default defineConfig({
   base: '/lx-doc-site/',
   title: '理想文档',
   description: '定位于个人和小团队的在线云文档',
+  head: [['link', { rel: 'icon', href: '/logo.svg' }]],
+  outDir: './docs',
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
@@ -44,9 +46,7 @@ export default defineConfig({
         },
         {
           text: '部署',
-          items: [
-            { text: '部署', link: '/doc/deploy' }
-          ]
+          items: [{ text: '部署', link: '/doc/deploy' }]
         },
         {
           text: '本地开发',

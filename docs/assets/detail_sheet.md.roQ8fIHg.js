@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BU4717dc.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"detail/sheet.md","filePath":"detail/sheet.md"}'),s={name:"detail/sheet.md"};function r(o,c,n,d,i,p){return a(),t("div")}const m=e(s,[["render",r]]);export{l as __pageData,m as default};

@@ -8,7 +8,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/logo.svg' }]],
   outDir: './docs',
   themeConfig: {
-    logo: '/logo.svg',
+    logo: './logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },

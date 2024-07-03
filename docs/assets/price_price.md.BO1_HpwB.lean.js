@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a1 as r}from"./chunks/framework.CirlnVTN.js";const u=JSON.parse('{"title":"定价","description":"","frontmatter":{},"headers":[],"relativePath":"price/price.md","filePath":"price/price.md"}'),o={name:"price/price.md"},c=r("",10),i=[c];function d(n,p,s,_,h,l){return t(),a("div",null,i)}const f=e(o,[["render",d]]);export{u as __pageData,f as default};

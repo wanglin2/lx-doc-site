@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as d,a1 as c}from"./chunks/framework.CirlnVTN.js";const f=JSON.parse('{"title":"前端","description":"","frontmatter":{},"headers":[],"relativePath":"doc/frontend.md","filePath":"doc/frontend.md"}'),p={name:"doc/frontend.md"},i=c("",9),l=[i];function t(a,n,r,s,h,_){return d(),o("div",null,l)}const w=e(p,[["render",t]]);export{f as __pageData,w as default};

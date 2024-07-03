@@ -68,6 +68,11 @@ export default defineConfig({
       copyright: 'Copyright © 2024-present lx-doc team'
     },
 
-    darkModeSwitchLabel: '暗黑模式'
+    darkModeSwitchLabel: '暗黑模式',
+    outlineTitle: '大纲',
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇'
+    }
   }
 })

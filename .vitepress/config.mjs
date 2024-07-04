@@ -52,8 +52,7 @@ export default defineConfig({
           text: '本地开发',
           items: [
             { text: '前端', link: '/doc/frontendDev' },
-            { text: '后端', link: '/doc/backendDev' },
-            { text: '联调测试', link: '/doc/test' }
+            { text: '后端', link: '/doc/backendDev' }
           ]
         }
       ]

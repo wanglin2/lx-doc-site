@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a1 as n}from"./chunks/framework.CirlnVTN.js";const F=JSON.parse('{"title":"部署","description":"","frontmatter":{},"headers":[],"relativePath":"doc/deploy.md","filePath":"doc/deploy.md"}'),l={name:"doc/deploy.md"},h=n("",17),p=[h];function t(k,e,r,d,g,c){return a(),i("div",null,p)}const y=s(l,[["render",t]]);export{F as __pageData,y as default};
